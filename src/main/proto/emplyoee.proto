@@ -1,0 +1,14 @@
+
+
+message Employee{
+  int32 id=1;
+
+}
+
+message Address{
+
+  string city=1;
+  string country=1;
+  string Continent=1;
+
+}
